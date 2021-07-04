@@ -1,9 +1,7 @@
 {
-  "books": [
         {
           "author": "Chinua Achebe",
           "imageLink": "images/things-fall-apart.jpg",
           "title": "Things Fall Apart"
         }
-          ]
 }
