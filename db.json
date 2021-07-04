@@ -1,5 +1,8 @@
 {
+          "books" [
+          {
           "author": "Chinua Achebe",
-          "imageLink": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/ableson.jpg",
-          "title": "Things Fall Apart"
+          "imageLink":"https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/ableson.jpg"
+          "title": "Things Fall Apart"}
+]    
 }
