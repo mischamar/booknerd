@@ -1,14 +1,5 @@
-{
-  "books": [
         {
           "author": "Chinua Achebe",
           "imageLink": "images/things-fall-apart.jpg",
           "title": "Things Fall Apart"
-        },
-        {
-          "author": "Hans Christian Andersen",
-          "imageLink": "images/fairy-tales.jpg",
-          "title": "Fairy tales"
         }
-  ]
-}
