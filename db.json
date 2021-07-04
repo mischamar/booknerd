@@ -1,5 +1,164 @@
 {
+  "booooks": [
+        {
           "author": "Chinua Achebe",
           "imageLink": "images/things-fall-apart.jpg",
-          "title": "Things Fall Apart"
+          "title": "Things Fall Apart",
+        },
+        {
+          "author": "Hans Christian Andersen",
+          "imageLink": "images/fairy-tales.jpg",
+          "title": "Fairy tales",
+        },
+        {
+          "author": "Dante Alighieri",
+          "imageLink": "images/the-divine-comedy.jpg",
+          "title": "The Divine Comedy",
+        },
+        {
+          "author": "Unknown",
+          "imageLink": "images/the-epic-of-gilgamesh.jpg",
+          "title": "The Epic Of Gilgamesh",
+        },
+        {
+          "author": "Unknown",
+          "imageLink": "images/the-book-of-job.jpg",
+          "title": "The Book Of Job",
+        },
+        {
+          "author": "Unknown",
+          "imageLink": "images/one-thousand-and-one-nights.jpg",
+          "title": "One Thousand and One Nights",
+        },
+        {
+          "author": "Unknown",
+          "imageLink": "images/njals-saga.jpg",
+          "title": "Nj\u00e1l's Saga",
+        },
+        {
+          "author": "Jane Austen",
+          "imageLink": "images/pride-and-prejudice.jpg",
+          "title": "Pride and Prejudice",
+        },
+        {
+          "author": "Honor\u00e9 de Balzac",
+          "imageLink": "images/le-pere-goriot.jpg",
+          "title": "Le P\u00e8re Goriot",
+        },
+        {
+          "author": "Samuel Beckett",
+          "imageLink": "images/molloy-malone-dies-the-unnamable.jpg",
+          "title": "Molloy, Malone Dies, The Unnamable, the trilogy",
+        },
+        {
+          "author": "Giovanni Boccaccio",
+          "imageLink": "images/the-decameron.jpg",
+          "title": "The Decameron",
+        },
+        {
+          "author": "Jorge Luis Borges",
+          "imageLink": "images/ficciones.jpg",
+          "title": "Ficciones",
+        },
+        {
+          "author": "Emily Bront\u00eb",
+          "imageLink": "images/wuthering-heights.jpg",
+          "title": "Wuthering Heights",
+        },
+        {
+          "author": "Albert Camus",
+          "imageLink": "images/l-etranger.jpg",
+          "title": "The Stranger",
+        },
+        {
+          "author": "Paul Celan",
+          "imageLink": "images/poems-paul-celan.jpg",
+          "title": "Poems",
+        },
+        {
+          "author": "Louis-Ferdinand C\u00e9line",
+          "imageLink": "images/voyage-au-bout-de-la-nuit.jpg",
+          "title": "Journey to the End of the Night",
+        },
+        {
+          "author": "Miguel de Cervantes",
+          "imageLink": "images/don-quijote-de-la-mancha.jpg",
+          "title": "Don Quijote De La Mancha",
+        },
+        {
+          "author": "Geoffrey Chaucer",
+          "imageLink": "images/the-canterbury-tales.jpg",
+          "title": "The Canterbury Tales",        },
+        {
+          "author": "Anton Chekhov",
+          "imageLink": "images/stories-of-anton-chekhov.jpg",
+          "title": "Stories",
+        },
+        {
+          "author": "Joseph Conrad",
+          "imageLink": "images/nostromo.jpg",
+          "title": "Nostromo",
+        },
+        {
+          "author": "Charles Dickens",
+          "imageLink": "images/great-expectations.jpg",
+          "title": "Great Expectations",
+        },
+        {
+          "author": "Denis Diderot",
+          "imageLink": "images/jacques-the-fatalist.jpg",
+          "title": "Jacques the Fatalist",
+        },
+        {
+          "author": "Alfred D\u00f6blin",
+          "imageLink": "images/berlin-alexanderplatz.jpg",
+          "title": "Berlin Alexanderplatz",
+        },
+        {
+          "author": "Fyodor Dostoevsky",
+          "imageLink": "images/crime-and-punishment.jpg",
+          "title": "Crime and Punishment",
+        },
+        {
+          "author": "Fyodor Dostoevsky",
+          "imageLink": "images/the-idiot.jpg",
+          "language": "Russian",
+          "title": "The Idiot",
+        },
+        {
+          "author": "Fyodor Dostoevsky",
+          "imageLink": "images/the-possessed.jpg",
+          "title": "The Possessed",
+        },
+        {
+          "author": "Fyodor Dostoevsky",
+          "imageLink": "images/the-brothers-karamazov.jpg",
+          "title": "The Brothers Karamazov",
+        },
+        {
+          "author": "George Eliot",
+          "imageLink": "images/middlemarch.jpg",
+          "title": "Middlemarch",
+        },
+        {
+          "author": "Ralph Ellison",
+          "imageLink": "images/invisible-man.jpg",
+          "title": "Invisible Man",
+        },
+        {
+          "author": "Euripides",
+          "imageLink": "images/medea.jpg",
+          "title": "Medea",
+        },
+        {
+          "author": "William Faulkner",
+          "imageLink": "images/absalom-absalom.jpg",
+          "title": "Absalom, Absalom!",
+        },
+        {
+          "author": "William Faulkner",
+          "imageLink": "images/the-sound-and-the-fury.jpg",
+          "title": "The Sound and the Fury",
+        }
+  ]
 }
